@@ -30,4 +30,6 @@ Step 3: Developed KPI metrics and performed analysis on the data with Power Bi
 
 Step 4: Created final dashboard using Power Bi visualization tools
 
+![image](https://github.com/user-attachments/assets/08a88b27-9a82-4cc7-b9e0-af6efdc4dd35)
+
 
